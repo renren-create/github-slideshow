@@ -3,4 +3,4 @@ layout: slide
 title: "Welcome to our second slide."
 ---
 
-Learning Github
+How can I have a job experience when the job needs experience?
